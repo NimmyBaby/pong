@@ -3,7 +3,7 @@ import numpy as np
 import pickle as cPickle
 import sys
 
-sys.path.append(r"\users\sanjayc0835506\appdata\local\programs\python\python310\lib\site-packages")
+sys.path.append(r"\users\NimmyC0854403\appdata\local\programs\python\python310\lib\site-packages")
 import gym
 import urllib.request
 import time
